@@ -35,7 +35,7 @@ Salary -- salary of an individual
 
 
 
-2) classify the Size_Categorie using SVM
+2)classify the Size_Categorie using SVM
 
 month	month of the year: 'jan' to 'dec'
 
